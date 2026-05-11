@@ -25,3 +25,29 @@
 - Android 8.0 (API 21) o superior
 - Conexión a Internet
 - Almacenamiento: ~50MB
+
+## 🎯 Próximas actualizaciones
+
+- [ ] Más novelas ligeras
+- [ ] Modo de lectura horizontal
+- [ ] Descarga de capítulos offline
+- [ ] Notificaciones de nuevos capítulos
+
+## ⚠️ Aviso Legal
+
+**Blue Lock** es una obra de **Muneyuki Kaneshiro** y **Yusuke Nomura**. Esta app es un proyecto de fans **sin fines de lucro**. Todos los derechos pertenecen a sus respectivos autores.
+
+## 👨‍💻 Desarrollador
+
+Desarrollado con ❤️ por [ilsonmangas](https://github.com/ilsonmangas)
+
+## 📞 Contacto
+
+- GitHub: [@ilsonmangas](https://github.com/ilsonmangas)
+- Reportar errores: [Issues](https://github.com/ilsonmangas/mangas.github.io/issues)
+
+---
+
+<div align="center">
+  <sub>© 2025 Blue Lock Fans | App no oficial</sub>
+</div>
