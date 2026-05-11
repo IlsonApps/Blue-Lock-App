@@ -1,6 +1,6 @@
 # ⚽ Blue Lock Manga Reader
 
-## 📱 Acerca de la App
+# 📱 Acerca de la App
 
 **Blue Lock Manga Reader** es una aplicación no oficial para fans del manga Blue Lock. Permite leer todos los capítulos del manga, ver el anime, leer novelas ligeras y contenido spin-off como Episode Nagi.
 
