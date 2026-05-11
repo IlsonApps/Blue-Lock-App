@@ -25,14 +25,6 @@
 
 ---
 
-## 🔗 Enlace Directo
-
-```txt
-https://www.mediafire.com/file/aev2vyysfgt09rr/blue-lock-app.apk/file
-```
-
----
-
 ## 📋 Copiar y Pegar Enlace
 
 > Copia el siguiente enlace manualmente:
