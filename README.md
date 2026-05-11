@@ -21,17 +21,7 @@
 
 ## 📱 Última Versión (v1.0.0)
 
-[![Descargar APK](https://img.shields.io/badge/Descargar-APK-00d4ff?style=for-the-badge&logo=android&logoColor=white)](https://www.mediafire.com/file/aev2vyysfgt09rr/blue-lock-app.apk/file)
-
----
-
-## 📋 Copiar y Pegar Enlace
-
-> Copia el siguiente enlace manualmente:
-
-```txt
-https://www.mediafire.com/file/aev2vyysfgt09rr/blue-lock-app.apk/file
-```
+[![Descargar APK](https://img.shields.io/badge/Descargar-APK-00d4ff?style=for-the-badge&logo=android&logoColor=white)](https://www.mediafire.com/file/g13qmlir6heok3a/blue-lock-app.apk/file)
 
 ---
 
