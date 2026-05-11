@@ -48,7 +48,7 @@
 ## 📱 Última Versión (v1.0.0)
 
 <div align="center">
-  <a href="https://www.mediafire.com/file/g13qmlir6heok3a/blue-lock-app.apk/file">
+  <a href="https://www.mediafire.com/file/rfbhjp9dxklrs2z/blue-lock-app.apk/file">
     <img src="https://img.shields.io/badge/Descargar-APK-00d4ff?style=for-the-badge&logo=android&logoColor=white" alt="Descargar APK">
   </a>
 </div>
