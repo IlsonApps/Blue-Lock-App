@@ -15,27 +15,60 @@
 - 🔎 **Zoom** - Para ver detalles
 - 🌙 **Modo Oscuro** - Interfaz completamente oscura
 
-## 📥 Descarga
+---
 
-### 📱 Última Versión (v1.0.0)
+# 📥 Descarga
+
+## 📱 Última Versión (v1.0.0)
 
 [![Descargar APK](https://img.shields.io/badge/Descargar-APK-00d4ff?style=for-the-badge&logo=android&logoColor=white)](https://www.mediafire.com/file/aev2vyysfgt09rr/blue-lock-app.apk/file)
 
-### Requisitos
+---
+
+## 🔗 Enlace Directo
+
+```txt
+https://www.mediafire.com/file/aev2vyysfgt09rr/blue-lock-app.apk/file
+```
+
+---
+
+## 📋 Copiar y Pegar Enlace
+
+> Copia el siguiente enlace manualmente:
+
+```txt
+https://www.mediafire.com/file/aev2vyysfgt09rr/blue-lock-app.apk/file
+```
+
+---
+
+## 📦 Requisitos
+
 - Android 8.0 (API 21) o superior
 - Conexión a Internet
-- Almacenamiento: ~50MB
+- Almacenamiento aproximado: ~50MB
 
-## ⚠️ Aviso Legal
+---
 
-**Blue Lock** es una obra de **Muneyuki Kaneshiro** y **Yusuke Nomura**. Esta app es un proyecto de fans **sin fines de lucro**. Todos los derechos pertenecen a sus respectivos autores.
+# ⚠️ Aviso Legal
 
-## 👨‍💻 Desarrollador
+**Blue Lock** es una obra de **Muneyuki Kaneshiro** y **Yusuke Nomura**.  
+Esta aplicación es un proyecto de fans **sin fines de lucro**.  
+Todos los derechos pertenecen a sus respectivos autores.
+
+---
+
+# 👨‍💻 Desarrollador
 
 Desarrollado con ❤️ por [Ilson](https://github.com/IlsonApps)
 
 ---
 
 <div align="center">
-  <sub>© 2025 Blue Lock Fans | App no oficial</sub>
+
+### © 2025 Blue Lock Fans
+
+<sub>App no oficial</sub>
+
 </div>
