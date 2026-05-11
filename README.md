@@ -43,8 +43,7 @@ Desarrollado con ❤️ por [ilsonmangas](https://github.com/ilsonmangas)
 
 ## 📞 Contacto
 
-- GitHub: [@ilsonmangas](https://github.com/ilsonmangas)
-- Reportar errores: [Issues](https://github.com/ilsonmangas/mangas.github.io/issues)
+- GitHub: [@ilson](https://github.com/IlsonApps)
 
 ---
 
