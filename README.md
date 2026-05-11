@@ -61,6 +61,4 @@ Desarrollado con ❤️ por [Ilson](https://github.com/IlsonApps)
 
 ### © 2025 Blue Lock Fans
 
-<sub>App no oficial</sub>
-
 </div>
