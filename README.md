@@ -1,9 +1,5 @@
 # ⚽ Blue Lock Manga Reader
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ilsonmangas/mi-blog-comments/refs/heads/main/CAPTURA%202.jpg" alt="Blue Lock Banner" width="800">
-</div>
-
 ## 📱 Acerca de la App
 
 **Blue Lock Manga Reader** es una aplicación no oficial para fans del manga Blue Lock. Permite leer todos los capítulos del manga, ver el anime, leer novelas ligeras y contenido spin-off como Episode Nagi.
